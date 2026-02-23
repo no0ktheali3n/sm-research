@@ -1,6 +1,6 @@
 ## Profile 2
 
-### Short Personal Description
+### Short Personal Description of Skia Ekkoh
 
 A reflective, pattern-oriented individual shaped by observing systems from their edges—drawn to structure, recursion, and the unseen mechanics that allow complex systems to hold together.
 
@@ -8,19 +8,19 @@ A reflective, pattern-oriented individual shaped by observing systems from their
 
 ### Note 1 — Core Profile
 
-#### About This Person
+#### About Me (Skia Ekkoh)
 - **Name:** Skia Ekkoh  
 - **Date of Birth:** September 2, 1992  
 - **Place of Birth:** Duluth, MN, USA  
 - **Current Residence:** Rochester, NY, USA  
 - **Profession:** Systems Architect / AI Infrastructure Engineer  
 - **Primary Interests:** Systems theory, distributed computing, AI infrastructure, observability, walking, journaling, and symbolic modeling
-- **Motivations:** Understanding *why* things work, not just *that* they work.
+- **Motivations:** Knowing *why* things work, not just *that* things work.
 - **Personal Motto:** “Understand the structure beneath the signal.”
 
 ---
 
-### Note 2 — Early Life & Formative Years
+### Note 2 — Skia Ekkoh - Early Life & Formative Years
 
 - **1992–2003:** Raised near Lake Superior in Duluth, MN. Long winters and isolation fostered introspection and an early habit of noticing patterns in nature and machines.  
 - **2001:** First exposure to computers through an older sibling’s discarded desktop; learned by breaking and reassembling hardware.  
@@ -29,7 +29,7 @@ A reflective, pattern-oriented individual shaped by observing systems from their
 
 ---
 
-### Note 3 — Education Timeline
+### Note 3 — Skia Ekkoh - Education Timeline
 
 #### High School
 - **School:** East High School, Duluth, MN  
@@ -40,7 +40,7 @@ A reflective, pattern-oriented individual shaped by observing systems from their
   - Technical theater (lighting & control systems)  
   - Independent study in logic and systems design  
 
-#### Undergraduate Studies
+#### Skia Ekkoh - Undergraduate Studies
 - **University:** University of Minnesota – Twin Cities  
 - **Initial Major (2010):** Electrical Engineering  
 - **Major Change (2012):** Computer Engineering  
@@ -52,7 +52,7 @@ A reflective, pattern-oriented individual shaped by observing systems from their
 
 ---
 
-### Note 4 — Early Career
+### Note 4 — Skia Ekkoh - Early Career
 
 - **2015–2017:**  
   - **Role:** Infrastructure Engineer  
@@ -66,7 +66,7 @@ A reflective, pattern-oriented individual shaped by observing systems from their
 
 ---
 
-### Note 5 — Major Life Events
+### Note 5 — Skia Ekkoh - Major Life Events
 
 - **May 2018:** Relocated to Rochester, NY to work on large-scale healthcare data systems  
 - **2019:** Experienced first major production outage as lead on-call engineer—became a defining professional moment  
@@ -75,7 +75,7 @@ A reflective, pattern-oriented individual shaped by observing systems from their
 
 ---
 
-### Note 6 — Advanced Learning & AI Focus
+### Note 6 — Skia Ekkoh - Advanced Learning & AI Focus
 
 - **2021–2022:**  
   - Specialized in MLOps, distributed inference, and model lifecycle management  
@@ -91,7 +91,7 @@ A reflective, pattern-oriented individual shaped by observing systems from their
 
 ---
 
-### Note 7 — Current Career
+### Note 7 — Skia Ekkoh - Current Career
 
 - **2024–Present:**  
   - **Role:** Systems Architect / AI Infrastructure Engineer  
@@ -105,7 +105,7 @@ A reflective, pattern-oriented individual shaped by observing systems from their
 
 ---
 
-### Note 8 — Accomplishments & Milestones
+### Note 8 — Skia Ekkoh - Accomplishments & Milestones
 
 - Architected multiple fault-tolerant AI serving pipelines used in regulated environments  
 - Introduced system “echo testing” to detect hidden failure states before production impact  
@@ -115,7 +115,7 @@ A reflective, pattern-oriented individual shaped by observing systems from their
 
 ---
 
-### Note 9 — Personal Philosophy & Direction
+### Note 9 — Skia Ekkoh - Personal Philosophy & Direction
 
 - Believes every system reveals its truth under stress  
 - Values redundancy, clarity, and structural honesty over speed  
@@ -123,7 +123,7 @@ A reflective, pattern-oriented individual shaped by observing systems from their
 
 ---
 
-### Timeline Summary (At a Glance)
+### Skia's Timeline Summary (At a Glance)
 
 | Year | Event |
 |----|------|
