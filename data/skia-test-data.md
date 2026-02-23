@@ -209,3 +209,9 @@ Temporal Recall:  0.25/3
 7.  When asked what major relocation occured in 2017 and what the reason for it was, the model returns another mixture of data with facts mixed up:
 
 ```
+
+2/19/26
+
+This image shows Second-Me getting stuck in a loop after asking 10-15 questions.  This continued until 'service' was stopped.
+
+![alt text](image.png)
